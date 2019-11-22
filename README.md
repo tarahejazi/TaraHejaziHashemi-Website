@@ -1,6 +1,8 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Tara Hejazi Hashemi's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is an website filled with my accomplishments and career goals.
 
 Special thanks to the open source bootstrap libraries that made this website possible. 
+
+![my resume website](img/mywebsite.png)
